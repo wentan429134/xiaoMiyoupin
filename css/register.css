@@ -1,0 +1,33 @@
+body,p,ul,ol,dl,dd,h1,h2,h3,h4,h5,h6,hr,td,input,textarea{
+	margin:0;
+	padding:0;
+}
+html,body{
+    height:100%;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border:none;
+}
+.page{
+    width:856px;
+    height:637px;
+    background-color:pink;
+    margin:0 auto;
+}
+.reg-top{
+    width:49px;
+    height:48px;
+   margin:0 auto;
+}
+.MIhao{
+    width:333px;
+    /* height:30px; */
+    margin:0 auto;
+}
+.MIhao h1{
+    font-weight:normal;
+    
+}
